@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This project is not intended to provide medical advice, diagnosis, or treatment. It is purely a numerical analysis based on publicly available data tables found on the internet. Always consult a qualified healthcare professional for medical concerns or decisions.
+This project is not intended to provide medical advice, diagnosis, or treatment. It is purely a numerical analysis based on publicly available data tables found on the internet. **Always consult a qualified healthcare professional for medical concerns or decisions.**
 
 ## Overview
 This project analyzes the relationship between blood glucose levels and A1C percentages. It includes data visualization, curve fitting, polynomial approximation, and error analysis to model and simplify the relationship between glucose and A1C.
