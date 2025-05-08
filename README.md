@@ -41,6 +41,15 @@ This project analyzes the relationship between blood glucose levels and A1C perc
   - Error between quadratic and linear approximations.
   - Root squared error visualization.
 
+## Glucose to A1C polynomial approximation
+
+$$
+A1C = 0.028099 \cdot \text{glucose} + 2.1748
+$$
+
+Where *glucose* is in mg/dL and it is the average of 3 months of glucose readings.  
+The resulting value for the *A1C* is in percentage.
+
 ## Example
 ```python
 # Example of reduced polynomial
